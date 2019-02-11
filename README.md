@@ -2,7 +2,7 @@
 ![Python|2.7](https://img.shields.io/badge/Python-2.7-brightgreen.svg)
 # dCrawL
 <br>
-# Instalation Termux<br><br>
+# Instalation Termux<br>
 ```
 pkg install git
 pkg install python2
@@ -11,7 +11,9 @@ git clone https://github.com/LOoLzeC/dCrawL
 cd dCrawL
 python2 dCrawL.py
 ```
+<br>
 # done
+<br>
 # Screenshots
 <h4><a href ="https://facebook.com/achmad.luthfi.hadi.3">click here to asking me on facebook</a></h4>
 <br><br>
