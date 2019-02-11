@@ -2,8 +2,7 @@
 ![Python|2.7](https://img.shields.io/badge/Python-2.7-brightgreen.svg)
 # dCrawL
 <br>
-# Instalation Termux
-<br>
+# Instalation Termux<br><br>
 ```
 pkg install git
 pkg install python2
