@@ -12,8 +12,6 @@ cd dCrawL
 python2 dCrawL.py
 ```
 <br>
-# done
-<br>
 # Screenshots
 <h4><a href ="https://facebook.com/achmad.luthfi.hadi.3">click here to asking me on facebook</a></h4>
 <br><br>
